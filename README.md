@@ -2,13 +2,14 @@
 
 ## About
 
-This is a website about..
+This is a website about Exotic Cars
 
-In contains three pages:
+In contains four pages:
 
 - The Home page at index.html
-- The \_**\_ page at \_\_\_**.html
-- The \_**\_ page at \_\_\_**.html
+- The Ferrari page at Ferrari.html
+- The Porsche page at Porsche.html
+- The Table page at table.html
 
 It will contain a variety of HTML tags and content to describe the topic.
 
