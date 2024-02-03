@@ -21,15 +21,15 @@ The tags will include headers, paragraph, lists, images, anchors, and tables.
 
 ## Roadmap
 
-- [ ] head, title, and body tags
-- [ ] Headers (h1, h2) and Paragraph p
-- [ ] Home Page
-- [ ] Page 2 about...
-- [ ] Page 3 about...
+- [x] head, title, and body tags
+- [x] Headers (h1, h2) and Paragraph p
+- [x] Home Page
+- [ ] Page 2 about ferrari
+- [ ] Page 3 about porsche
 
 ## Contact
 
-Author:
+Author: Desmon Garrison
 
 ## Acknowledgements
 
